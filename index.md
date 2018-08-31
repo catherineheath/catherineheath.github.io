@@ -7,3 +7,4 @@
 </html>
 
 [link] (http://tryghost.com)
+[Text](http://tryghost.com)
