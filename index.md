@@ -17,16 +17,16 @@
 
 ## Documentation
 
-* [Short story](/short-story.md)
+* [Short story](/subfolder/short-story.md)
 
-* [Haiku](/haiku.md)
+* [Haiku](/subfolder/haiku.md)
 
-* [Funniest thing](/funniest-thing.md)
+* [Funniest thing](/subfolder/funniest-thing.md)
 
-* [Shopping list](/shopping-list.md)
+* [Shopping list](/subfolder/shopping-list.md)
 
-* [Earliest memory](/earliest-memory.md)
+* [Earliest memory](subfolder//earliest-memory.md)
 
-* [Fanfiction](/fanfiction.md)
+* [Fanfiction](/subfolder/fanfiction.md)
 
-* [Interesting fact](/interesting-fact.md)
+* [Interesting fact](/subfolder/interesting-fact.md)
