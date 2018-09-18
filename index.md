@@ -24,7 +24,7 @@ This is a collaborative workshop in which you will work together to make your fi
 * Use a projector to show example pull request
 * Workshop (1.25 hours)
 * Everyone work together on contributing their first pull request
-* Walk round and speak to each individual for 5 minutes
+* We'll walk round and check how each individual is getting on
 
 **Wrap up (15 minutes)**
 
@@ -34,6 +34,7 @@ This is a collaborative workshop in which you will work together to make your fi
 
 
 ## Resources
+* [Link to example GitHub repository](https://github.com/catherineheath/catherineheath.github.io)
 
 * [Open source webinar video – Amruta Ranade](https://www.youtube.com/watch?v=es7V3S4-Pkk&feature=youtu.be)
 
