@@ -7,5 +7,10 @@
 </html>
 
 
-[Link to my website](http://awaywithwords.co)
-[Link to Write the Docs] (https://writethedocs.org)
+* [Link to my website](http://awaywithwords.co)
+
+* [Link to Write the Docs](https://writethedocs.org)
+
+* [Link to Write the Docs GitHub repository](https://github.com/writethedocs)
+
+* [Link to Code of Conduct](http://www.writethedocs.org/code-of-conduct/)
