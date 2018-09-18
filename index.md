@@ -34,6 +34,9 @@ This is a collaborative workshop in which you will work together to make your fi
 
 
 ## Resources
+
+* [Potential first-time issues](https://up-for-grabs.net/#/tags/documentation)
+
 * [Link to example GitHub repository](https://github.com/catherineheath/catherineheath.github.io)
 
 * [Open source webinar video – Amruta Ranade](https://www.youtube.com/watch?v=es7V3S4-Pkk&feature=youtu.be)
