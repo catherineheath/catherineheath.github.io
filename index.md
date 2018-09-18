@@ -6,11 +6,38 @@
 </body>
 </html>
 
+## Workshop plan
+
+This is a collaborative workshop in which you will work together to make your first contribution to an open source project's documentation on GitHub. 
+
+### Run-through: 
+
+**Introduction (15 minutes)**
+
+* Introduce ourselves
+* Talk about Write the Docs
+* Explain what we are going to do in the workshop
+* Mention tea and coffee/powerpoints/fire exits
+
+**Example (15 minutes)**
+
+* Use a projector to show example pull request
+* Workshop (1.25 hours)
+* Everyone work together on contributing their first pull request
+* Walk round and speak to each individual for 5 minutes
+
+**Wrap up (15 minutes)**
+
+* Thank everyone for coming 
+* Talk about next Write the Docs meetup in Bradford
+* Ask for feedback
+
+
 ## Resources
 
-* [Open source webinar video – Amruta Ranade]
+* [Open source webinar video – Amruta Ranade](https://www.youtube.com/watch?v=es7V3S4-Pkk&feature=youtu.be)
 
-* [Open source webinar slides – Amruta Ranade]
+* [Open source webinar slides – Amruta Ranade](https://docs.google.com/presentation/d/1t9saUV3TDozOXyih6cYhWmesa5qxaOVOd34TfKz8wWM/edit#slide=id.p)
 
 * [**Theory:** contributing documentation to your first open source project on GitHub](https://awaywithwords.co/2018/07/27/first-pull-request-github-open-source/)
 
