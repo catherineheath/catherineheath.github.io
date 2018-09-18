@@ -6,5 +6,6 @@
 </body>
 </html>
 
-[link] (http://tryghost.com)
-[Text](http://tryghost.com)
+
+[Link to my website](http://awaywithwords.co)
+[Link to Write the Docs] (https://writethedocs.org)
