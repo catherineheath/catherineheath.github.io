@@ -22,7 +22,9 @@ This is a collaborative workshop in which you will work together to make your fi
 **Example (15 minutes)**
 
 * Use a projector to show example pull request
-* Workshop (1.25 hours)
+
+**Workshop (1.25 hours)**
+
 * Everyone work together on contributing their first pull request
 * We'll walk round and check how each individual is getting on
 
