@@ -14,7 +14,7 @@ This is a collaborative workshop in which you will work together to make your fi
 
 **Introduction (15 minutes)**
 
-* Introduce ourselves
+* Introduce ourselves (Catherine and Deborah)
 * Talk about Write the Docs
 * Explain what we are going to do in the workshop
 * Mention tea and coffee/powerpoints/fire exits
@@ -52,8 +52,6 @@ This is a collaborative workshop in which you will work together to make your fi
 * [**Practical guide:** contributing to open source documentation on GitHub](https://awaywithwords.co/2018/08/24/contribute-open-source-documentation-github-practical-guide/)
 
 ## Further resources
-
-* [Link to my website](http://awaywithwords.co)
 
 * [Link to Write the Docs](https://writethedocs.org)
 
