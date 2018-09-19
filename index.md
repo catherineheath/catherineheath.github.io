@@ -17,6 +17,7 @@ This is a collaborative workshop in which you will work together to make your fi
 * Introduce ourselves (Catherine and Deborah)
 * Talk about Write the Docs
 * Explain what we are going to do in the workshop
+* People share what project they want to work on
 * Mention tea and coffee/powerpoints/fire exits
 
 **Example (15 minutes)**
