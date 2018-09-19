@@ -61,6 +61,8 @@ This is a collaborative workshop in which you will work together to make your fi
 
 * [Link to Code of Conduct](http://www.writethedocs.org/code-of-conduct/)
 
+* [Try Git](https://try.github.io/)
+
 
 ## Documentation
 
