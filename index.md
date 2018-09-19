@@ -1,10 +1,6 @@
 
-<html>
-<body>
-  <h1>Practising your open source documentation</h1>
-  <p>This is an example project so budding open source contributors can make their first contribution to a project.</p>
-</body>
-</html>
+# Practising your open source documentation
+This is an example project so budding open source contributors can make their first contribution to a project.
 
 ## Workshop plan
 
