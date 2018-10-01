@@ -49,6 +49,16 @@ This is a collaborative workshop in which you will work together to make your fi
 
 * [**Practical guide:** contributing to open source documentation on GitHub](https://awaywithwords.co/2018/08/24/contribute-open-source-documentation-github-practical-guide/)
 
+## Help with Markdown
+
+Two very good tools that can help you get familiar with the Markdown syntax.
+
+**[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**  
+A handy cheat sheet you can use to find out how to format your contributios!
+
+**[Dillinger.io](https://dillinger.io/)**  
+This is a live, online editor to preview how your Markdown looks when rendered.
+
 ## Further resources
 
 * [Link to Write the Docs](https://writethedocs.org)
