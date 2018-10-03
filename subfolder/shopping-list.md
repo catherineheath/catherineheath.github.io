@@ -1,6 +1,6 @@
 
 # Vampire Shopping List
-
+Blood and lots of good stuff
 ## Weekly
 
 Laundry detergent
