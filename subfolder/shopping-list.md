@@ -1,6 +1,11 @@
 
 # Vampire Shopping List
 
+Blood
+Blood
+... More Blood
+Mouth Wash?
+
 ## Weekly
 
 Laundry detergent
