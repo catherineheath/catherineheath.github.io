@@ -69,6 +69,8 @@ This is a live, online editor to preview how your Markdown looks when rendered.
 
 * [Try Git](https://try.github.io/)
 
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com) 
+Make 5 PR requests in the month of October and get a free t-shirt.
 
 ## Documentation
 
